@@ -1,3 +1,5 @@
+## El olvido de Homero
+
 Homero Simpson estaba saliendo de su auto cuando, por accidente, se golpeó la cabeza con la puerta.
 
 El golpe fue tan fuerte que su memoria se reinició y olvidó qué es lo que siempre dice en estas situaciones.
@@ -14,6 +16,8 @@ int main(){
 	return 0;
 }
 ```
+
+## Marge preocupada
 
 Marge Simpson está preocupada porque se hace tarde y Homero no regresa de la taberna de Moe.
 
@@ -36,6 +40,8 @@ int main(){
 	return 0;
 }
 ```
+
+## Los cachorros del señor Burns
 
 El perro de los Simpson, Huesos, tuvo 25 cachorros. 
 
@@ -68,6 +74,8 @@ int main(){
 	return 0;
 }
 ```
+
+## En busca del tesoro
 
 Los Simpsons se perdieron en una cueva intentando encontrar un tesoro que le perteneció a Snake. 
 
@@ -106,6 +114,8 @@ int main(){
 }
 ```
 
+## Bart y Milhouse en la escuela
+
 Bart y Milhouse se dieron cuenta que no hay ninguna chance de que aprueben todas las materias que les corresponden, por lo que llegaron a un acuerdo con sus padres.
 
 Entre los dos deben poder aprobar un total de `20 materias`.
@@ -129,6 +139,8 @@ int main(){
 	return 0;
 }
 ```
+
+## Sorteo de vacaciones 1
 
 Patty y Selma tienen ganas de irse de vacaciones, pero no se deciden ni cuándo ni a dónde ir. 
 
@@ -175,6 +187,8 @@ int main(){
 	return 0;
 }
 ```
+
+## Sorteo de vacaciones 2
 
 Una vez que Patty y Selma por fin tienen un destino a donde ir, decidieron contarle a su hermana Marge. 
 
@@ -233,6 +247,8 @@ int main(){
 }
 ```
 
+## El castigo de Bart
+
 Bart Simpson suele portarse mal siempre que va al colegio, por lo que casi siempre le toca cumplir con el mismo castigo, llenar pizarrones con la misma frase una y otra vez.
 
 Para agilizar el castigo Bart necesita un programa que imprima por pantalla **“No debo patinar en las aulas.”** las veces necesarias.
@@ -260,6 +276,8 @@ int main(){
 	return 0;
 }
 ```
+
+## Haz la tarea
 
 Homero Simpson está intentando que Bart haga su tarea, pero Bart aprovecha para molestarlo repitiendo lo que dice en un tono más fuerte. 
 
@@ -306,6 +324,8 @@ int main(){
 	return 0;
 }
 ```
+
+## Cletus y sus hijos
 
 Cletus tiene 31 hijos (https://www.youtube.com/watch?v=9bEvqAG2nDo) y tiene que decirles que se vayan a dormir uno por uno.
 
